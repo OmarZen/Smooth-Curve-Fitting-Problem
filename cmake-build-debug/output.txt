@@ -1,0 +1,24 @@
+Dataset Index: 1
+Best Coefficients: 3.31354 0.783457 0.833051 
+Best Mean Square Error: 0.0315625
+---------------------------------
+Dataset Index: 2
+Best Coefficients: 2.89928 4.79973 -3.69201 0.489483 
+Best Mean Square Error: 11.9515
+---------------------------------
+Dataset Index: 3
+Best Coefficients: 9.32379 9.7152 8.71606 7.23415 -9.58627 1.38556 
+Best Mean Square Error: 83396.8
+---------------------------------
+Dataset Index: 4
+Best Coefficients: -6.22048 -9.57831 -9.65964 -6.30744 -5.91399 9.00776 -1.32761 
+Best Mean Square Error: 2.21295e+06
+---------------------------------
+Dataset Index: 5
+Best Coefficients: 9.92974 -3.68506 -9.99984 4.24087 -0.421461 
+Best Mean Square Error: 60.7219
+---------------------------------
+Dataset Index: 6
+Best Coefficients: -3.84938 -4.08099 -2.55887 -7.40236 -7.67185 -6.64585 -9.98165 -9.99802 1.20028 0.863934 -0.121728 
+Best Mean Square Error: 1.0777e+09
+---------------------------------
